@@ -1,2 +1,4 @@
 hello file2
 2nd line
+change in file2.txt
+feature change
